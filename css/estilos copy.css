@@ -197,15 +197,6 @@ section#inicio {
         }
 
         a {
-          text-decoration: none;
-          color: var(--color-contraste);
-
-          &:hover {
-            color: var(--color-primario);
-          }
-        }
-
-        > a {
           text-transform: uppercase;
           text-decoration: none;
           color: var(--color-contraste);
